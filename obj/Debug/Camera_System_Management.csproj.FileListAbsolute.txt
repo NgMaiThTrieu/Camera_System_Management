@@ -1,0 +1,276 @@
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\bin\Debug\Camera_System_Management.exe.config
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\bin\Debug\Camera_System_Management.exe
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\bin\Debug\Camera_System_Management.pdb
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\bin\Debug\FontAwesome.Sharp.dll
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\bin\Debug\Guna.UI2.dll
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\bin\Debug\LiveCharts.dll
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\bin\Debug\LiveCharts.WinForms.dll
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\bin\Debug\LiveCharts.Wpf.dll
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\bin\Debug\LiveCharts.pdb
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\bin\Debug\LiveCharts.xml
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\bin\Debug\LiveCharts.WinForms.pdb
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\bin\Debug\LiveCharts.WinForms.xml
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\bin\Debug\LiveCharts.Wpf.pdb
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\bin\Debug\LiveCharts.Wpf.xml
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.csproj.AssemblyReference.cache
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.csproj.SuggestedBindingRedirects.cache
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.fCameraSystemManagement.resources
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.fLogin.resources
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fAccount.resources
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fCartShopping.resources
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fAdmin.resources
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fCreateAccount.resources
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fEmployeeSalary.resources
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fInsurance.resources
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fBillLookup.resources
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fLineChart.resources
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fPersonnel.resources
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fReport.resources
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fSetting.resources
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fUpdatePersonnel.resources
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fUser.resources
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Properties.Resources.resources
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.csproj.GenerateResource.cache
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.exe.licenses
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.csproj.CoreCompileInputs.cache
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.csproj.CopyComplete
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.exe
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.pdb
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.frmSell.resources
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.frmTypeProductManagememt.resources
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fProduct.resources
+D:\C#\Camera_System_Management - Copy - Copy\Camera_System_Management\bin\Debug\Guna.Charts.WinForms.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\Camera_System_Management.exe.config
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\Camera_System_Management.exe
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\Camera_System_Management.pdb
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\FontAwesome.Sharp.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\Guna.Charts.WinForms.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\Guna.UI2.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\LiveCharts.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\LiveCharts.WinForms.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\LiveCharts.Wpf.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\LiveCharts.pdb
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\LiveCharts.xml
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\LiveCharts.WinForms.pdb
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\LiveCharts.WinForms.xml
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\LiveCharts.Wpf.pdb
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\LiveCharts.Wpf.xml
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.csproj.AssemblyReference.cache
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.csproj.SuggestedBindingRedirects.cache
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.fCameraSystemManagement.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.fLogin.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fAccount.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fAdmin.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fCreateAccount.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fInsurance.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fLineChart.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fPersonnel.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fProduct.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fReport.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fSetting.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fUpdatePersonnel.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Properties.Resources.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.csproj.GenerateResource.cache
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.exe.licenses
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.csproj.CoreCompileInputs.cache
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.csproj.CopyComplete
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.exe
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.pdb
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fSupplier.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fSalary.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fBill.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fStockIn.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fSell.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fTimeKeeping.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fBodyDetail.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fProductDetail.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fLogin_Staff.resources
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\BUS.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\DTO.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\DAO.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\EntityFramework.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\BUS.pdb
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\DTO.pdb
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\DAO.pdb
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\DAO.dll.config
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\EntityFramework.xml
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fProductType.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fProductOrigin.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fProductSupplier.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fProductDiscount.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fClient.resources
+D:\C#\Camera_System_Management\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fMClient.resources
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\EnvDTE.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\stdole.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\EnvDTE.xml
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Camera_System_Management\Camera_System_Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.csproj.AssemblyReference.cache
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.csproj.SuggestedBindingRedirects.cache
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.fCameraSystemManagement.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.fLogin.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fAccount.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fBill.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fBodyDetail.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fClient.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fLogin_Staff.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fPersonnel.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fProductDetail.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fProductDiscount.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fProductOrigin.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fProductType.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fSell.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fAdmin.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fCreateAccount.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fMClient.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fInsurance.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fLineChart.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fProduct.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fReport.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fSalary.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fSetting.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fStockIn.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fSupplier.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fProductSupplier.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fUpdatePersonnel.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fTimeKeeping.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Properties.Resources.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.csproj.GenerateResource.cache
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.exe.licenses
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.csproj.CoreCompileInputs.cache
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.exe
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.pdb
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fAssi.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.Forms.fLogoutStaff.resources
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\Camera_System_Management.exe.config
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\Camera_System_Management.exe
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\Camera_System_Management.pdb
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\BUS.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\DTO.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\EntityFramework.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\FontAwesome.Sharp.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\Guna.Charts.WinForms.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\Guna.UI2.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\LiveCharts.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\LiveCharts.WinForms.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\LiveCharts.Wpf.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\DAO.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\EnvDTE.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\stdole.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\BUS.pdb
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\DTO.pdb
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\EntityFramework.xml
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\LiveCharts.pdb
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\LiveCharts.xml
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\LiveCharts.WinForms.pdb
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\LiveCharts.WinForms.xml
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\LiveCharts.Wpf.pdb
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\LiveCharts.Wpf.xml
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\DAO.pdb
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\DAO.dll.config
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\EnvDTE.xml
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Camera_System_Management - Copy\Camera_System_Management\obj\Debug\Camera_System_Management.csproj.CopyComplete
